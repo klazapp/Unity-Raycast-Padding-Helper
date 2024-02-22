@@ -1,4 +1,4 @@
-# Raycast Padding Helper Utility for Unity
+# Raycast Padding Visualizer Utility for Unity
 
 ## Introduction
 
