@@ -38,6 +38,7 @@ namespace com.klazapp.utility
 
                 parentSpace.GetComponent<RectTransform>();
             }
+            
             //Image.raycastPadding order of the Vector4 is:
             //X = Left
             //Y = Bottom
