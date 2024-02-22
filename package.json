@@ -1,6 +1,6 @@
 {
-  "name": "com.klazapp.raycastpaddingvisualizer",
-  "displayName": "Klazapp Raycast Paddding Visualizer",
+  "name": "com.klazapp.raycastpaddinghelper",
+  "displayName": "Klazapp Raycast Paddding Helper",
   "version": "1.0.0",
   "unity": "2022.3",
   "description": "This custom editor helper tool development",
@@ -18,7 +18,7 @@
       "email": "klazapp@klazapp.com",
       "url": "https://www.klazapp.com"
     },
-    "documentationUrl": "https://github.com/klazapp/Unity-Raycast-Padding-Visualizer-Public",
-    "changelogUrl": "https://github.com/klazapp/Unity-Raycast-Padding-Visualizer-Public",
-    "licensesUrl": "https://github.com/klazapp/Unity-Raycast-Padding-Visualizer-Public"
+    "documentationUrl": "https://github.com/klazapp/Unity-Raycast-Padding-Helper-Public",
+    "changelogUrl": "https://github.com/klazapp/Unity-Raycast-Padding-Helper-Public",
+    "licensesUrl": "https://github.com/klazapp/Unity-Raycast-Padding-Helper-Public"
 }
