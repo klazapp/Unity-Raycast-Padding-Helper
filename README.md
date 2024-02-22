@@ -1,7 +1,7 @@
 # Raycast Padding Helper Utility for Unity
 
 ## Introduction
-The `Raycast Padding Helper` utility, part of the `com.Klazapp.Utility` namespace, is designed to assist with accurate collision detection using raycasts. It helps to prevent objects from intersecting or "tunneling" through each other, especially at high speeds or when using fast-moving physics objects. It enables accurate collision detection without a set boundary.
+The `Raycast Padding Helper` utility, part of the `com.Klazapp.Utility` namespace, is designed to assist with accurate collision detection using raycasts. It helps to prevent objects from intersecting or "tunneling" through each other, especially at high speeds or when using fast-moving physics objects. It enables accurate collision detection within a set boundary while enabling a set visualtion of where the user can click on.
 
 ## Features
 - It adds a small buffer or padding around the collider of the object. This padding helps to ensure that the raycasts are not cast from exactly the surface of the collider, which can lead to inaccuracies due to floating-point precision issues.
