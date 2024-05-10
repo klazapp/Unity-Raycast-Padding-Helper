@@ -3,7 +3,7 @@
   "displayName": "Klazapp Raycast Paddding Helper",
   "version": "1.0.0",
   "unity": "2022.3",
-  "description": "This custom editor helper tool development",
+  "description": "Optimize your UI development workflow with the Raycast Padding Visualizer for Unity, an essential tool for visually debugging and adjusting raycast padding around UI elements. This Unity Editor utility enhances your development process by providing clear visual feedback on the interaction boundaries of UI components, ensuring they are perfectly tailored for user interactions. Compatible across various Unity rendering pipelines and requiring only Unity Editor Scripting and the Unity Mathematics package, this tool is perfect for refining UI responsiveness and interactivity.",
   "keywords": [
     "config",
     "file",
